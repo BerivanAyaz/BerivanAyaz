@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Berivan</h1>
 <h3 align="center">A passionate Software Engineer from Turkey</h3>
-![Uploading image_processing20210301-3601-w1fbuc.gif…]()
+![image_processing20210301-3601-w1fbuc](https://github.com/BerivanAyaz/BerivanAyaz/assets/81657726/d81ffbac-8db7-4038-9eaa-1162c1146bb4)
+
 
 - 🔭👩‍💻 I am currently learning and developing in the field of **data science.**
 
