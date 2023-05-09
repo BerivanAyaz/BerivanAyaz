@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Berivan</h1>
 <h3 align="center">A passionate Software Engineer from Turkey</h3>
 <img align="center" width="400" src="https://media1.giphy.com/media/bMdZu3fG2ZEBO/giphy.gif?cid=ecf05e47fly7jx0s5qtkxp6aivzf9rcdvfj72tsj44ncns2n&ep=v1_gifs_search&rid=giphy.gif&ct=g">
-- 🔭👩‍💻 I am currently learning and developing in the field of **data science.**
+- 🔭👩‍💻 I am currently learning and developing in the field of data science.
 
 - 📫 How to reach me: **berivannayaz@gmail.com**
 
