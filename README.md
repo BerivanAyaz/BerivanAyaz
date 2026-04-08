@@ -8,8 +8,7 @@
 ## 🚀 About Me
 I am a results-oriented **Software Engineer** specializing in high-performance **Full Stack Web Development**. I focus on building scalable applications and optimizing user experiences using modern technologies and AI-powered workflows.
 
-- 🔭 **Current Project:** Building a Next.js & Firebase powered smart CMS for digital asset management (Memtropy).
-- ⚡ **Speed:** I leverage AI tools (Cursor, Gemini, Copilot) to accelerate the SDLC, delivering MVPs up to 3x faster without compromising quality.
+- ⚡ **Speed:** I leverage AI tools (Cursor, Gemini, Copilot) to accelerate the SDLC, delivering MVPs faster without compromising quality.
 - 🎓 **Education:** Software Engineering graduate from Istanbul Aydin University (100% Scholarship).
 - 📍 **Based in:** Istanbul, Turkey.
 
