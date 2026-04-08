@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Berivan Kula</h1>
+<h1 align="center">Hi 👋, I'm Berivan Ayaz Kula</h1>
 <h3 align="center">Software Engineer | Full Stack Web Developer | AI Enthusiast</h3>
 
 <p align="center">
