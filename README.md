@@ -2,7 +2,7 @@
 <h3 align="center">Software Engineer | Full Stack Web Developer | AI Enthusiast</h3>
 
 <p align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExenB4ZXE2OXY3eTlkemMyM3NrY2hxb2doODNjc2xmdzVxNGp5M3ozaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/znFOMXuHVkV36qzdbJ/giphy.gif" width="600" />
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExenB4ZXE2OXY3eTlkemMyM3NrY2hxb2doODNjc2xmdzVxNGp5M3ozaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/znFOMXuHVkV36qzdbJ/giphy.gif" width="400" />
 </p>
 
 ## 🚀 About Me
