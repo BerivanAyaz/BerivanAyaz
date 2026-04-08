@@ -34,6 +34,7 @@ I am a results-oriented **Software Engineer** specializing in high-performance *
 
 ### AI & Tools
 <p align="left">
+  <img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
   <img src="https://img.shields.io/badge/Cursor-5A5A5A?style=for-the-badge&logo=cursor&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub_Copilot-24292e?style=for-the-badge&logo=github-copilot&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
