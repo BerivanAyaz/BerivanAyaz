@@ -41,18 +41,6 @@ I am a results-oriented **Software Engineer** specializing in high-performance *
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 </p>
 
-## 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=berivanayaz&show_icons=true&theme=algolia" alt="Berivan's Stats" />
-  <br/>
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=berivanayaz&layout=compact&theme=algolia" alt="Top Langs" />
-</p>
-
-## 🔥 Streak Stats
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=berivanayaz&theme=algolia" alt="Berivan's Streak" />
-</p>
-
 ## 📫 Connect with me
 <p align="left">
   <a href="https://linkedin.com/in/berivanayaz" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
