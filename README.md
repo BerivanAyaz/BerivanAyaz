@@ -2,7 +2,7 @@
 <h3 align="center">Software Engineer | Full Stack Web Developer | AI Enthusiast</h3>
 
 <p align="center">
-  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/51296b93890387.5e71358504064.gif" width="600" />
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExenB4ZXE2OXY3eTlkemMyM3NrY2hxb2doODNjc2xmdzVxNGp5M3ozaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/znFOMXuHVkV36qzdbJ/giphy.gif" width="600" />
 </p>
 
 ## 🚀 About Me
