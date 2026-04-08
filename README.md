@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Berivan Ayaz Kula</h1>
 <h3 align="center">Software Engineer | Full Stack Web Developer | AI Enthusiast</h3>
-
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3ZhcXF6Znd4Znd4Znd4Znd4Znd4Znd4Znd4Znd4Znd4Znd4Znd4JmVwPXYxX2dpZnNfc2VhcmNoJmN0PWc/SWoSkN6DxTszqIKEqv/giphy.gif" width="600" />
+</p>
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueGZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3JmVwPXYxX2dpZnNfc2VhcmNoJmN0PWc/3o7TKSjPPrTVfLp9nO/giphy.gif" width="400" />
 </p>
