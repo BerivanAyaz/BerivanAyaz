@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Berivan Ayaz Kula</h1>
 <h3 align="center">Software Engineer | Full Stack Web Developer | AI Enthusiast</h3>
-
+<p align="center">
+  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/51296b93890387.5e71358504064.gif" width="600" />
+</p>
 ## 🚀 About Me
 I am a results-oriented **Software Engineer** specializing in high-performance **Full Stack Web Development**. I focus on building scalable applications and optimizing user experiences using modern technologies and AI-powered workflows.
 
