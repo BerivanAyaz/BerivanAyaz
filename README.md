@@ -43,8 +43,14 @@ I am a results-oriented **Software Engineer** specializing in high-performance *
 
 ## 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=berivanayaz&show_icons=true&theme=dracula&cache_seconds=1800" alt="Berivan's Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=berivanayaz&layout=compact&theme=dracula&cache_seconds=1800" alt="Top Langs" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=berivanayaz&show_icons=true&theme=algolia" alt="Berivan's Stats" />
+  <br/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=berivanayaz&layout=compact&theme=algolia" alt="Top Langs" />
+</p>
+
+## 🔥 Streak Stats
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=berivanayaz&theme=algolia" alt="Berivan's Streak" />
 </p>
 
 ## 📫 Connect with me
