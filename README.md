@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Berivan Ayaz Kula</h1>
+<h1 align="center">Hi, I'm Berivan Ayaz Kula</h1>
 <h3 align="center">Software Engineer | Full Stack & Data-Driven Web Solutions</h3>
 
 <p align="center">
@@ -9,7 +9,7 @@
 I am a results-oriented **Software Engineer** specializing in high-performance **Full Stack Web Development** and **Data-Driven Applications**. I focus on building scalable web solutions, optimizing user experiences, and bridging complex business logic with robust technical execution using modern technologies and AI-powered workflows.
 
 - ⚡ **Speed & Innovation:** I leverage AI tools (Cursor, Gemini, Copilot) to accelerate the SDLC, delivering MVPs faster without compromising quality.
-- 📊 **Data & Analytics:** Experienced in designing interactive dashboards (Power BI, Metabase) and writing complex SQL queries to drive business decisions.
+- 📊 **Data & Analytics:** Experienced in designing interactive dashboards (Power BI, Metabase), writing complex SQL queries, and utilizing search engines (Elastic) to drive business decisions.
 - 🎓 **Education:** Software Engineering graduate from Istanbul Aydin University (100% Scholarship).
 - 📍 **Based in:** Istanbul, Turkey.
 
@@ -28,10 +28,11 @@ I am a results-oriented **Software Engineer** specializing in high-performance *
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
   <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Metabase-509EE3?style=for-the-badge&logo=metabase&logoColor=white" />
+  <img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white" />
 </p>
 
 ### AI & Tools
