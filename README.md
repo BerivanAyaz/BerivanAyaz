@@ -1,14 +1,15 @@
 <h1 align="center">Hi 👋, I'm Berivan Ayaz Kula</h1>
-<h3 align="center">Software Engineer | Full Stack Web Developer | AI Enthusiast</h3>
+<h3 align="center">Software Engineer | Full Stack & Data-Driven Web Solutions</h3>
 
 <p align="center">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExenB4ZXE2OXY3eTlkemMyM3NrY2hxb2doODNjc2xmdzVxNGp5M3ozaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/znFOMXuHVkV36qzdbJ/giphy.gif" width="400" />
 </p>
 
 ## 🚀 About Me
-I am a results-oriented **Software Engineer** specializing in high-performance **Full Stack Web Development**. I focus on building scalable applications and optimizing user experiences using modern technologies and AI-powered workflows.
+I am a results-oriented **Software Engineer** specializing in high-performance **Full Stack Web Development** and **Data-Driven Applications**. I focus on building scalable web solutions, optimizing user experiences, and bridging complex business logic with robust technical execution using modern technologies and AI-powered workflows.
 
-- ⚡ **Speed:** I leverage AI tools (Cursor, Gemini, Copilot) to accelerate the SDLC, delivering MVPs faster without compromising quality.
+- ⚡ **Speed & Innovation:** I leverage AI tools (Cursor, Gemini, Copilot) to accelerate the SDLC, delivering MVPs faster without compromising quality.
+- 📊 **Data & Analytics:** Experienced in designing interactive dashboards (Power BI, Metabase) and writing complex SQL queries to drive business decisions.
 - 🎓 **Education:** Software Engineering graduate from Istanbul Aydin University (100% Scholarship).
 - 📍 **Based in:** Istanbul, Turkey.
 
@@ -23,12 +24,13 @@ I am a results-oriented **Software Engineer** specializing in high-performance *
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 </p>
 
-### Backend & Database
+### Backend, Database & Data
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
   <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
 </p>
 
